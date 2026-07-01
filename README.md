@@ -75,12 +75,12 @@ parameters* on other pairs:
 | USDCHF | −314 | **0.53** ❌ |
 | USDCAD | −235 | **0.62** ❌ |
 
-![Cross-instrument profit factor](result/cross_instrument_pf.png)
+![Cross-instrument profit factor](results/cross_instrument_pf.png)
 
 **Step 3 — Longer horizon confirms decay:** extending EURUSD to 12 years
 (2014–2025) collapses the profit factor from 1.27 to **1.07** (near breakeven).
 
-![Period decay](result/period_decay_pf.png)
+![Period decay](results/period_decay_pf.png)
 
 **Conclusion:** the edge is specific to one instrument in one regime. It does
 not generalise across instruments or survive a longer horizon, so the correct
